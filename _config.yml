@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Jacob Chapman"
-  avatar           : "profile.png"
+  avatar           : "../images/me.jpg"
   bio              : "Research Scientist at UKAEA"
   location         : "Culham Centre for Fusion Energy, UK"
   employer         :
