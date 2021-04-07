@@ -4,10 +4,10 @@ collection: talks
 type: "Invited Talk"
 permalink: 
 venue: "Fundamental Physics of Ferroelectrics Conference, Williamsburg, USA"
-date: 2017-01-01
+date: 2017-01-30
 location: "Williamsburg, USA"
 ---
-J. B. J. Chapman, A. V. Kimmel & D. M. Duffy.
+<u>J. B. J. Chapman</u>, A. V. Kimmel & D. M. Duffy.
 
 Switchable polarisation of functional ferroelectric ceramics such as lead zirconate titanate PbZr$_{1-x}$Ti$_x$O$_3$ (PZT), a solid solution of PbTiO$_3$ and PbZrO$_3$, makes it a critical component in many technologies, including non-volatile memories, transducers and waveguides. PZT exhibits its greatest piezoelectric properties and electromechanical response at the morphotropic phase boundary (MPB) around x=0.5 and this composition has been widely utilised in applications ranging from actuators to inkjet printers. Switching of Ti-rich PZT has been shown to be characterised by creep-depinning due to a nucleation and growth mechanism, reverse switching or successive ferroelastic transitions depending on the driving field orientation [1,2]. However, the dynamic properties of the switching dynamics at low temperatures, vital for applications in aeronautical and space applications, for the MPB regime remain poorly characterised [3].
 
