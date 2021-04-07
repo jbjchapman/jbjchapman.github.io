@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Professional background
+
+- 2017 Eng.D, Univeristy College London & National Physical Laboratory
+- 2014 MRes, Molecular Modelling and Materials Science, UCL
+- 2013 MPhys, Theoretical Physical, Univeristy of York
 
 Work experience
 ======
