@@ -17,7 +17,7 @@ I am a post-doctoral scientist working in the Materials Modelling group at the C
 
 I completed my PhD at University College London in 2018, winning the Marshall Stoneham prize for my investigation into domain dynamics and finite size effects of ferroelectric materials. I started my research career studying theoretical physics at the University of York, researching exact correlation in time dependent quantum systems collaborating in the development of the [iDEA code](https://pypi.org/project/idea-code/)
 
-[Correlation effect in dynamics of electrons in double well](../images/xc.png)
+![Correlation effect in dynamics of electrons in double well](../images/xc.png)
 
 For more info
 ------
