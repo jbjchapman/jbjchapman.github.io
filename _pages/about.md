@@ -13,11 +13,7 @@ header:
 
 I am a post-doctoral scientist working in the Materials Modelling group at the Culham Centre for Fusion Energy researching radiation damage mitigation for reactor materials. I am a developer of the [spin-lattice dynamics code SPILADY](https://ccfe.ukaea.uk/resources/spilady/). 
 
-<p align="center">
-  <src="../images/FeCr_SD.gif">
-</p>
-
-#![Spin dynamics of Cr cluster in BCC Fe](../images/FeCr_SD.gif)
+![Spin dynamics of Cr cluster in BCC Fe](../images/FeCr_SD.gif)
 
 I completed my PhD at University College London in 2018, winning the Marshall Stoneham prize for my investigation into domain dynamics and finite size effects of ferroelectric materials. 
 
