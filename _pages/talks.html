@@ -11,13 +11,17 @@ author_profile: true
 
 {% endif %}
 
-## Talks
+<header>
+  <h1>Talks</h1>
+</header>
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-## Posters
+<header>
+  <h1>Posters</h1>
+</header>
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
