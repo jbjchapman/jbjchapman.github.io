@@ -9,32 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-## Professional background
+## Education
 
 - 2017 Eng.D, Univeristy College London & National Physical Laboratory
+  * Winner of Stoneham-Marshall Prize for Outstanding Research in Condensed Matter Theory
 - 2014 MRes, Molecular Modelling and Materials Science, UCL
+  * Distinction
 - 2013 MPhys, Theoretical Physical, Univeristy of York
+  * Starred 1st Class with Distinction (average test score 86\%)
 
-Work experience
+## Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- UKAEA
+- UCL/NPL
+- YORK
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scientific Computing:
+  * C++
+  * OpenMP
+  * C
+  * Fortran
+* Numerical Modelling: 
+  * Python - numpy, scipy, scikit-learn, pandas
+* Experience on HPC facilities: 
+
 
 Publications
 ======
@@ -48,12 +48,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Posters
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
