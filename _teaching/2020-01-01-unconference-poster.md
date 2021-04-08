@@ -1,7 +1,7 @@
 ---
-title: "The High-Temperature Dynamics of Magnetism in Irradiated FeCr Alloys"
+title: "(Poster) The High-Temperature Dynamics of Magnetism in Irradiated FeCr Alloys"
 collection: poster
-type: 
+type: Poster
 permalink: 
 venue: "UKAEA Unconference, Culham, UK."
 date: 2020-01-20
