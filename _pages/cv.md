@@ -19,12 +19,13 @@ redirect_from:
   * Starred 1st Class with Distinction (average test score 86 %)
 
 ## Work experience
-======
+
 - 2017-Present: Postdoctoral Research Scientist, United Kingdom Atomic Energy Authority, Culham Centre for Fusion Energy
   * Spin Lattice Dynamics
   * Machine Learning: Artificial Neural Networks, Generalised Linear Regression, Gaussian Processes
 - 2013-2017: Doctoral Research, Joint Enterprise with University College London and the National Physical Laboratory
   * Thesis: "Improving the Functional Control of Ferroelectrics using Insights from Atomistic Modelling"
+  * Supervision of successful MSc project
   * Density Functional Theory
   * Molecular Dynamics
 - 2009-2013: Undergraduate, University of York
@@ -37,13 +38,12 @@ redirect_from:
 Skills
 ======
 * Scientific Computing:
-  * C++
-  * OpenMP
+  * C++ with OpenMP
   * C
   * Fortran
-* Numerical Modelling: 
-  * Python - numpy, scipy, scikit-learn, pandas
-* Experience on HPC facilities: 
+* Numerical Modelling and Data Science: 
+  * Python - numpy, scipy, scikit-learn, pandas, SQlite 
+* Experience on national supercomputing facilities
 
 
 Publications
