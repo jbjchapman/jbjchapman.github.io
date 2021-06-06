@@ -15,7 +15,7 @@ redirect_from:
   * Winner of Stoneham-Marshall Prize for Outstanding Research in Condensed Matter Theory
 - 2014 MRes, Molecular Modelling and Materials Science, UCL
   * Distinction
-- 2013 MPhys, Theoretical Physical, Univeristy of York
+- 2013 MPhys, Theoretical Physics, Univeristy of York
   * Starred 1st Class with Distinction (average test score 86 %)
 
 ## Work experience
@@ -40,7 +40,7 @@ redirect_from:
 ## Skills
 
 - Numerical modelling, data manipulation and visualisation on Windows and Unix environments: 
-  * Languages: Python, C++, Fortran, C, \Latex, Bash (shell scipt)
+  * Languages: Python, C++, Fortran, C, Latex, Bash (shell scipt)
   * Tools: Numpy, Scipy, Scikit-Learn, Pandas, Multiprocessing, OpenMP, Jupyter Notebooks, matplotlib, gnuplot, Microsoft Office
   * Databases: SQLite, Excel
 - Scientific Computing:
