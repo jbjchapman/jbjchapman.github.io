@@ -34,8 +34,8 @@ redirect_from:
   * Supervised successful MSc project
   * Instigated international collaborations with Queens University Belfast and Carnegie Institute of Science to combine simulation results with experimental data.
   * Developed new models and analysis software to characterise properties of perovskite ferroelectric materials and built tools, algorithms and software hierarchy to achieve research aims. Software used by institutions in UK, Germany and USA.
- * Advanced analytic and mathematical competency to take large and complex data sets and extract meaningful quantitative information.
- * Excellent project management skills handling several innovative concurrent projects, completing deliverables and meeting deadlines, factoring available resources, constraints and slippages
+  * Advanced analytic and mathematical competency to take large and complex data sets and extract meaningful quantitative information.
+  * Excellent project management skills handling several innovative concurrent projects, completing deliverables and meeting deadlines, factoring available resources, constraints and slippages
  
 - 2009-2013: Undergraduate, University of York
   * Disseration: "Time-Dependent Quantum Dynamics of Interacting Electrons - The Role Correlation"
