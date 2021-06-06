@@ -21,9 +21,9 @@ redirect_from:
 ## Work experience
 
 - 2017-Present: Postdoctoral Research Scientist, United Kingdom Atomic Energy Authority, Culham Centre for Fusion Energy
-  * Developing scalable models and interdisciplinary design solutionsfor radiation resistant materials for fusion reactors.
-  * Leading the design, integration and testing of new functionalityinto the C++/OpenMP based code SPILADY.
-  * Successfully written grants tos ecure over 15 million core-hours on national HPC facilities for high-throughput big-data calculations.
+  Developing scalable models and interdisciplinary design solutions for radiation resistant materials for fusion reactors.
+  * Leading the design, integration and testing of new functionality into SPILADY.
+  * Successfully written grants to secure over 15 million core-hours on national HPC facilities for high-throughput big-data calculations.
   * Constructed high-dimensional dataset maintained in a relational database (SQLite) to standardise varied longitudinal simulation data.
   * Built python3, numpy, scipy, scikit-learn and pandas based tools to train supervised machine learned interatomic potentials.
   * Developed an artifical neural network suitable for modelling magnetic materials.
@@ -55,7 +55,7 @@ redirect_from:
   * Tools: Numpy, Scipy, Scikit-Learn, Pandas, Multiprocessing, OpenMP, Jupyter Notebooks, matplotlib, gnuplot, Microsoft Office
   * Databases: SQLite, Excel
   * Version Control: Git, GitHub, GitLab
-- Scientific Computing:
+- Scalable Scientific Computing:
   * Density Functional Theory (VASP, CASTEP, OPENMX, CP2K, iDEA) 
   * Molecular Dynamics (SPILADY, DLPOLY,LAMMPS)
   * Spin Lattice Dynamics (SPILADY)
@@ -65,6 +65,7 @@ redirect_from:
   * Supervised MSc project
   * Physics Department Ambassador for prospective students
 - Problem Solving and Analytics
+- 
 
 ## Awards and Grants
 * 15 million core-hours granted for use on Marconi-FUSION supercomputer (2019-Present)
