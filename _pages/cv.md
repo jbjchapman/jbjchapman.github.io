@@ -21,7 +21,7 @@ redirect_from:
 ## Work experience
 
 - 2017-Present: Postdoctoral Research Scientist, United Kingdom Atomic Energy Authority, Culham Centre for Fusion Energy
-  Developing scalable models and interdisciplinary design solutions for radiation resistant materials for fusion reactors.
+  * Developing scalable models and interdisciplinary design solutions for radiation resistant materials for fusion reactors.
   * Leading the design, integration and testing of new functionality into SPILADY.
   * Successfully written grants to secure over 15 million core-hours on national HPC facilities for high-throughput big-data calculations.
   * Constructed high-dimensional dataset maintained in a relational database (SQLite) to standardise varied longitudinal simulation data.
@@ -64,8 +64,10 @@ redirect_from:
   * Physics Undergraduate Consultancy Service
   * Supervised MSc project
   * Physics Department Ambassador for prospective students
-- Problem Solving and Analytics
-- 
+- Communication
+  * Lead author of publications in high-impact journals.
+  * Presented talks, posters and lead discussions regarding innovative research at dozens of international conferences, seminars, workshops and meetings.
+  * Team player instigating successful international collaborations
 
 ## Awards and Grants
 * 15 million core-hours granted for use on Marconi-FUSION supercomputer (2019-Present)
