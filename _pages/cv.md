@@ -21,6 +21,7 @@ redirect_from:
 ## Work experience
 
 - 2017-Present: Postdoctoral Research Scientist, United Kingdom Atomic Energy Authority, Culham Centre for Fusion Energy
+  * Diversity Panel
   * Spin Lattice Dynamics
   * Machine Learning: Artificial Neural Networks, Generalised Linear Regression, Gaussian Processes
   * Relational Databases: SQLite
@@ -31,26 +32,33 @@ redirect_from:
   * Molecular Dynamics
 - 2009-2013: Undergraduate, University of York
   * Disseration: "Time-Dependent Quantum Dynamics of Interacting Electrons - The Role Correlation"
-  * Mentor for the Physics Undergraduate Consultancy Service (2011-2013).
+  * Mentor for the Physics Undergraduate Consultancy Service (2011-2013). Voluntary advisor and tutor the Physics Department walk-in consultancy service.
   * Department of Physics Ambassador (2011-2013) - Our team won the "Vice Chancellor Silver Award for Outstanding Achievement"
   * Elected Physics Society Sports Sectretary (2011-2012)
   * Elected Physics Society Social Sectretary (2010-2011)
   
 Skills
 ======
-* Scientific Computing:
-  * C++ with OpenMP
-  * C
-  * Fortran
-* Numerical Modelling and Data Science: 
-  * Python - numpy, scipy, scikit-learn, pandas, SQlite 
-* Experience on national supercomputing facilities
+- Numerical modelling, data manipulation and visualisation: 
+  * Python - numpy, scipy, scikit-learn, pandas, SQlite
+  * C++ - OpenMP
+  * Fortran, C
+- Scientific Computing:
+  * Density Functional Theory (VASP, CASTEP, OPENMX, CP2K, iDEA) 
+  * Molecular Dynamics (SPILADY, DLPOLY,LAMMPS)
+  * Spin Lattice Dynamics (SPILADY)
+  * Experience on national supercomputing facilities
+- Mentoring
+  * PUCS
+  * MSc
+  * Ambassador
 
 ## Awards and Grants
 * 15 million core-hours granted for use on Marconi-FUSION supercomputer (2019-Present)
 * Marshal Stoneham Award for Outstanding Research in Condensed Matter Physics (2018)
 * IEEE ISAF-IWATMD-PFM conference student paper finalist (2017)
 * Best Computational Research Poster - UCL Chemistry Department (2016)
+* Condensed Matter Theory Grant for use on the ARCHER supercomputer (2014-2017)
 * IEEE Ultrasonics, Ferroelectrics and Frequency Control Society Student Grant (2015)
 * Joint recipient of the Vice Chancellor Silver Award for Outstanding Achievement (2012)
 * Nuffield Foundation Bursary for summer scholarship in the University of York Condensed Matter Theory Group (2012)
