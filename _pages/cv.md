@@ -36,22 +36,22 @@ redirect_from:
   * Department of Physics Ambassador (2011-2013) - Our team won the "Vice Chancellor Silver Award for Outstanding Achievement"
   * Elected Physics Society Sports Sectretary (2011-2012)
   * Elected Physics Society Social Sectretary (2010-2011)
-  
-Skills
-======
-- Numerical modelling, data manipulation and visualisation: 
-  * Python - numpy, scipy, scikit-learn, pandas, SQlite
-  * C++ - OpenMP
-  * Fortran, C
+
+## Skills
+
+- Numerical modelling, data manipulation and visualisation on Windows and Unix environments: 
+  * Languages: Python, C++, Fortran, C, \Latex, Bash (shell scipt)
+  * Tools: Numpy, Scipy, Scikit-Learn, Pandas, Multiprocessing, OpenMP, Jupyter Notebooks, matplotlib, gnuplot, Microsoft Office
+  * Databases: SQLite, Excel
 - Scientific Computing:
   * Density Functional Theory (VASP, CASTEP, OPENMX, CP2K, iDEA) 
   * Molecular Dynamics (SPILADY, DLPOLY,LAMMPS)
   * Spin Lattice Dynamics (SPILADY)
   * Experience on national supercomputing facilities
 - Mentoring
-  * PUCS
-  * MSc
-  * Ambassador
+  * Physics Undergraduate Consultancy Service
+  * Supervised MSc project
+  * Physics Department Ambassador for prospective students
 
 ## Awards and Grants
 * 15 million core-hours granted for use on Marconi-FUSION supercomputer (2019-Present)
