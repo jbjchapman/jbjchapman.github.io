@@ -23,6 +23,7 @@ redirect_from:
 - 2017-Present: Postdoctoral Research Scientist, United Kingdom Atomic Energy Authority, Culham Centre for Fusion Energy
   * Spin Lattice Dynamics
   * Machine Learning: Artificial Neural Networks, Generalised Linear Regression, Gaussian Processes
+  * Relational Databases: SQLite
 - 2013-2017: Doctoral Research, Joint Enterprise with University College London and the National Physical Laboratory
   * Thesis: "Improving the Functional Control of Ferroelectrics using Insights from Atomistic Modelling"
   * Supervision of successful MSc project
@@ -45,6 +46,15 @@ Skills
   * Python - numpy, scipy, scikit-learn, pandas, SQlite 
 * Experience on national supercomputing facilities
 
+## Awards and Grants
+* 15 million core-hours granted for use on Marconi-FUSION supercomputer (2019-Present)
+* Marshal Stoneham Award for Outstanding Research in Condensed Matter Physics (2018)
+* IEEE ISAF-IWATMD-PFM conference student paper finalist (2017)
+* Best Computational Research Poster - UCL Chemistry Department (2016)
+* IEEE Ultrasonics, Ferroelectrics and Frequency Control Society Student Grant (2015)
+* Joint recipient of the Vice Chancellor Silver Award for Outstanding Achievement (2012)
+* Nuffield Foundation Bursary for summer scholarship in the University of York Condensed Matter Theory Group (2012)
+* Joint recipient of Engineering Education Scheme Grant (2007) 
 
 Publications
 ======
