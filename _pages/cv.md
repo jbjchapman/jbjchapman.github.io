@@ -5,6 +5,9 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: ../images/jet.jpg
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
 {% include base_path %}
