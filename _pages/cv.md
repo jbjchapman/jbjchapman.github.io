@@ -22,24 +22,24 @@ redirect_from:
 
 - 2017-Present: Postdoctoral Research Scientist, United Kingdom Atomic Energy Authority, Culham Centre for Fusion Energy
   * Developing scalable models and interdisciplinary design solutions for radiation resistant materials for fusion reactors.
-  * Leading the design, integration and testing of new functionality into SPILADY.
+  * Leading the design, integration and testing of new functionality into SPILADY simulation package.
   * Successfully written grants to secure over 15 million core-hours on national HPC facilities for high-throughput big-data calculations.
   * Constructed high-dimensional dataset maintained in a relational database (SQLite) to standardise varied longitudinal simulation data.
-  * Built python3, numpy, scipy, scikit-learn and pandas based tools to train supervised machine learned interatomic potentials.
-  * Developed an artifical neural network suitable for modelling magnetic materials.
-  * Performed exploratory data analysis supporting CCFE’s success-ful Athena Swan Bronze Award as a member of the Diversity Panel
+  * Built python based tools to train supervised machine learned interatomic potentials (including numpy, scipy, scikit-learn, sqlite3 and pandas packages).
+  * Developed an artifical neural network (ANN) suitable for modelling magnetic materials with spin degrees of freedom.
+  * Performed exploratory data analysis supporting CCFE’s successful Athena Swan Bronze Award as a member of the Diversity Panel.
 
 - 2013-2017: Doctoral Research, Joint Enterprise with University College London and the National Physical Laboratory
-  * Thesis: "Improving the Functional Control of Ferroelectrics using Insights from Atomistic Modelling"
+  * Thesis: "Improving the Functional Control of Ferroelectrics using Insights from Atomistic Modelling". Supervised by Prof. D. M. Duffy & Dr A. V. Kimmel.
   * Supervised successful MSc project
   * Instigated international collaborations with Queens University Belfast and Carnegie Institute of Science to combine simulation results with experimental data.
   * Developed new models and analysis software to characterise properties of perovskite ferroelectric materials and built tools, algorithms and software hierarchy to achieve research aims. Software used by institutions in UK, Germany and USA.
-  * Advanced analytic and mathematical competency to take large and complex data sets and extract meaningful quantitative information.
-  * Excellent project management skills handling several innovative concurrent projects, completing deliverables and meeting deadlines, factoring available resources, constraints and slippages
+  * Applied advanced analytic and mathematical competency to take large and complex data sets and extract meaningful quantitative information.
+  * Demonstrable project management skills handling several innovative concurrent projects, completing deliverables and meeting deadlines, factoring available resources, constraints and slippages
  
 - 2009-2013: Undergraduate, University of York
-  * Disseration: "Time-Dependent Quantum Dynamics of Interacting Electrons - The Role Correlation"
-  * Project designed to improve exchange-correlation energy functionals used in time dependent density functional theory.
+  * Dissertation: "Time-Dependent Quantum Dynamics of Interacting Electrons - The Role Correlation". Supervised by Prof. R. W. Godby.
+  * Project designed to improve exchange-correlation energy functionals used in time-dependent density functional theory.
   * Optimised pre-existing software (iDEA code) in an unfamiliar language. Achieved a 28-fold improvement in speed and a reduced memory requirement, extending the scope and impact of the project. Enabled the reverse engineering of exact Kohn-Sham potentials for strongly correlated materials.
   * Selected by the Department of Physics and secured funding through the Nuffield Foundation.
   * Formulated new methods to numerically model the exact behaviour of fully interacting electrons subject to time dependent potentials and applied novel correlation measures to illuminate features in quantum dynamics neglected in local and adiabatic approximations.
@@ -56,10 +56,14 @@ redirect_from:
   * Databases: SQLite, Excel
   * Version Control: Git, GitHub, GitLab
 - Scalable Scientific Computing:
-  * Density Functional Theory (VASP, CASTEP, OPENMX, CP2K, iDEA) 
-  * Molecular Dynamics (SPILADY, DLPOLY,LAMMPS)
-  * Spin Lattice Dynamics (SPILADY)
-  * Experience on national supercomputing facilities
+  * Density Functional Theory calculations (VASP, CASTEP, OPENMX, CP2K, iDEA). Including:
+    * Exchange-correlation functional development for Time Dependent Density Functional Theory (TDDFT);
+    * Phonon calculations using Density Functional Perturbation Theory (DFPT);
+    * Non-collinear calculations using Constraint Functional DFT.
+  * Molecular Dynamics simulations (SPILADY, DLPOLY,LAMMPS)
+    * Interatomic Potential development: EAM, Finnis-Sinclair, Buckingham, Linear, Artificial Neural Network
+  * Spin Lattice Dynamics (SPILADY) including longitudinal fluctuations.
+  * Experience on national supercomputing facilities including Archer and Archer2, UK and Marconi-FUSION, Italy.
 - Mentoring
   * Physics Undergraduate Consultancy Service
   * Supervised MSc project
