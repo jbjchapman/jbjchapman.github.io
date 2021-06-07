@@ -1,6 +1,7 @@
 ---
 title: "Effect of non-Heisenberg magnetic interactions on defects in ferromagnetic iron"
 collection: publications
+image: ../images/jet.jpg
 permalink: 
 excerpt: 
 date: 2020-12-01
