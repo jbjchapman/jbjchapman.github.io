@@ -77,7 +77,7 @@ header:
   * Team player instigating successful international collaborations
 
 ## Awards and Grants
-* 15 million core-hours granted for use on Marconi-FUSION supercomputer (2019-Present)
+* 25 million core-hours awarded for use on Marconi-FUSION supercomputer (2019-Present)
 * Marshal Stoneham Award for Outstanding Research in Condensed Matter Physics (2018)
 * IEEE ISAF-IWATMD-PFM conference student paper finalist (2017)
 * Best Computational Research Poster - UCL Chemistry Department (2016)
